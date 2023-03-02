@@ -16,8 +16,8 @@
 
 ## Code uesd
  
-*document.querySelector(".side-bar .crayons-card .       crayons-subtitle-2").innerHTML = "Syed Riza";
-document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.";*
+     document.querySelector(".side-bar .crayons-card .       crayons-subtitle-2").innerHTML = "Syed Riza ";
+     document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.";
 
 ## Output 
 
@@ -38,12 +38,12 @@ document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can wri
 
 ## Code used 
 
-*const productname = document.querySelectorAll(".as-imagegrid-item");
+     const productname = document.querySelectorAll(".as-imagegrid-item");
     const makeanarray = [];
     productname.forEach((p) => {
       makeanarray.push(p.innerText);
-   });
-    console.log(makeanarray);*11
+    });
+    console.log(makeanarray);
 
 ## Output
 
@@ -67,7 +67,7 @@ document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can wri
 
 ## Code used
 
-       const Section = document.querySelecto("accordion-homepage");
+      const Section = document.querySelecto("accordion-homepage");
       const topic = document.createElement("section");
       topic.classList.add("parent");
       const h3 = document.createElement ("h3");
@@ -91,7 +91,7 @@ document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can wri
 
 ## Output 
 
-   document.querySelector(".customer-support a").innerText = '+91 7204022364'
+    document.querySelector(".customer-support a").innerText = '+91 7204022364'
 
 ## Tasks
 
@@ -136,10 +136,10 @@ document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can wri
 ## Code uesd
     
     const find = document.querySelector("._wrapper_1f3oz_1 ._input_1f3oz_13")
-  find.addEventListener("mouseover", changbg)
-  function changbg(){
-  find.style.backgroundColor = "red"
-  };
+    find.addEventListener("mouseover", changbg)
+    function changbg(){
+    find.style.backgroundColor = "red"
+    };
 
 ## Tasks 
 
@@ -206,7 +206,7 @@ document.querySelector(".side-bar .color-base-70").innerHTML = "Any fool can wri
 
 ## Code used
 
-document.querySelector('.text-color-white').style.fontFamily ="monospace"
+    document.querySelector('.text-color-white').style.fontFamily ="monospace"
     document.querySelector('.text-color-white').style.color="#B1361E"
 
 ## Output
@@ -254,7 +254,7 @@ document.querySelector('.text-color-white').style.fontFamily ="monospace"
 
 ## Code used
 
-  document.querySelector(".gtag .icon").style.backgroundImage="url('https://ineuron.ai/images/ineuron-logo.png')"
+    document.querySelector(".gtag .icon").style.backgroundImage="url('https://ineuron.ai/images/ineuron-logo.png')"
 
 ## Output
 
@@ -276,7 +276,7 @@ document.querySelector('.text-color-white').style.fontFamily ="monospace"
 
 ## Code used
 
-   document.querySelector(".btn-primary btn").style.backgroundColor = "blue";
+    document.querySelector(".btn-primary btn").style.backgroundColor = "blue";
 
 ## Output
 
@@ -367,7 +367,7 @@ document.querySelector('.text-color-white').style.fontFamily ="monospace"
 
 ## Code used
 
-  document.querySelector('.section-title_title__VEDfK').innerHTML = "Start with Sctrach";
+    document.querySelector('.section-title_title__VEDfK').innerHTML = "Start with Sctrach";
 
 ## Output
 
@@ -389,7 +389,7 @@ document.querySelector('.text-color-white').style.fontFamily ="monospace"
 
 ## Code used
 
-  document.querySelector(".btn-container").innerHTML=new Date()
+    document.querySelector(".btn-container").innerHTML=new Date()
 
 ## Output
 
@@ -411,7 +411,7 @@ document.querySelector('.text-color-white').style.fontFamily ="monospace"
 
 ## Code used
 
-  document.querySelector(".p-f03-footer-container .p-footer").style.backgroundColor="orange"
+     document.querySelector(".p-f03-footer-container .p-footer").style.backgroundColor="orange"
 
 ## Output
 
