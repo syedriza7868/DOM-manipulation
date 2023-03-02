@@ -8,7 +8,7 @@
 
 ## Sample Image 
 
-![Sample One](./assset/download.png)
+![Sample One](./assset/download%20(2).png)
 
 ## Tasks 
 
